@@ -1,0 +1,59 @@
+---
+title: "Project 2_ Proposal"
+format: html
+editor: visual
+---
+
+## Title
+
+Visualization Cheat Sheet
+
+## Team Members: 
+
+Aastha Prasad, Trayvion White-Austin, Tallapaneni Venkateshwara Chowdary
+
+## High Level Goal
+
+The main idea of this project is to create poster encompassing all the major things learned in this course and creating a cheat sheet of sort with the end product of the project giving audience (from the showcase) some understanding of the visualizations that R has to offer or just know which visualization is best for the type of data they have.
+
+## **Expanded description:**
+
+The goal of this project is to demonstrate various visualizations that can effectively convey information and how insights can be derived from them. Additionally, it aims to inform the audience about which types of visualizations are most suitable for different forms of data. The motivation behind this project is to educate research students without a background in data visualization on how to select appropriate visualizations for their research, depending on the data they are using to answer their research question/s. The end product of this project is to generate some majorly used visualizations while also documenting the type of data they were drawn using. If more can be done, then we would also like to compare some similar visualizations, such as Histogram vs Bar graph, and their specific use cases to highlight their differences.
+
+## Questions:
+
+## Dataset:
+
+## Plan of Attack:
+
++------------------------------------+------------------+-------------------+----------+----------+-----------------------------------------------------------------------+
+| Task Name                          | Status           | Assignee          | Due      | Priority | Summary                                                               |
+|                                    |                  |                   |          |          |                                                                       |
+|                                    | Done – D         | **Aastha – 1**    |          |          |                                                                       |
+|                                    |                  |                   |          |          |                                                                       |
+|                                    | In Progress – I  | **Trayvion – 2**  |          |          |                                                                       |
+|                                    |                  |                   |          |          |                                                                       |
+|                                    | To Do – T        | **Venkatesh – 3** |          |          |                                                                       |
++====================================+==================+===================+==========+==========+=======================================================================+
+| Create Proposal                    | D                | 1,2,3             | Nov 13   | High     | Creating Proposal with high level goal and its description as per the |
+|                                    |                  |                   |          |          | guidelines.                                                           |
++------------------------------------+------------------+-------------------+----------+----------+-----------------------------------------------------------------------+
+| Proposal update                    | T                | 1,2,3             | Nov 18   | High     | Update the proposal based on review given                             |
++------------------------------------+------------------+-------------------+----------+----------+-----------------------------------------------------------------------+
+| Data Collection                    | T                | 3                 | Nov 20   | High     | Decide the source of data and collect it                              |
++------------------------------------+------------------+-------------------+----------+----------+-----------------------------------------------------------------------+
+| Data cleaning and exploration      | T                | 1,2               | Nov 22   | High     | Do EDA on the collected data                                          |
++------------------------------------+------------------+-------------------+----------+----------+-----------------------------------------------------------------------+
+| Determine the questions to address | T                | 1,2,3             | Nov 24   | High     | Determine the questions which can analyzed through different          |
+|                                    |                  |                   |          |          | visualization                                                         |
++------------------------------------+------------------+-------------------+----------+----------+-----------------------------------------------------------------------+
+| Question 1                         | T                | 1                 | Dec 1    | High     | Create Visualizations for question 1                                  |
++------------------------------------+------------------+-------------------+----------+----------+-----------------------------------------------------------------------+
+| Question 2                         | T                | 2                 | Dec 1    | High     | Create Visualizations for question 2                                  |
++------------------------------------+------------------+-------------------+----------+----------+-----------------------------------------------------------------------+
+| Collate and create Poster          | T                | 1                 | Dec 3    | High     | Combine all the Visualizations and create a poster                    |
++------------------------------------+------------------+-------------------+----------+----------+-----------------------------------------------------------------------+
+| Poster Update                      | T                | 1,2,3             | Dec 6    | High     | Update the poster based on the review                                 |
++------------------------------------+------------------+-------------------+----------+----------+-----------------------------------------------------------------------+
+| Presentation                       | T                | 1,2,3             | Dec 11   | High     | Prepare the final presentation                                        |
++------------------------------------+------------------+-------------------+----------+----------+-----------------------------------------------------------------------+
