@@ -26,9 +26,9 @@ drawn using. If more can be done, then we would also like to compare some simila
 
 ## Questions:
 1.	What role does color play in data visualization, and how can it be used effectively?
-•	Are there specific color palettes or schemes that are recommended for different types of data?
+  •	Are there specific color palettes or schemes that are recommended for different types of data?
 2.	How can visualizations help in interpreting complex datasets?
-•	Can you illustrate this with case studies or examples?
+  •	Can you illustrate this with case studies or examples?
 
 
 ## Dataset:
