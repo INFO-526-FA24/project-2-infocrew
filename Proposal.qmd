@@ -25,8 +25,14 @@ their research, depending on the data they are using to answer their research qu
 drawn using. If more can be done, then we would also like to compare some similar visualizations, such as Histogram vs Bar graph, and their specific use cases to highlight their differences.
 
 ## Questions:
+1.	What role does color play in data visualization, and how can it be used effectively?
+•	Are there specific color palettes or schemes that are recommended for different types of data?
+2.	How can visualizations help in interpreting complex datasets?
+•	Can you illustrate this with case studies or examples?
+
 
 ## Dataset:
+For now the dataset used are the in-build datasets like MPG Dataset, Penguin dataset or iris flower datasets due to their variety of data.
 
 ## Plan of Attack:
 
