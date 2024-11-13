@@ -14,11 +14,15 @@ Aastha Prasad, Trayvion White-Austin, Tallapaneni Venkateshwara Chowdary
 
 ## High Level Goal
 
-The main idea of this project is to create poster encompassing all the major things learned in this course and creating a cheat sheet of sort with the end product of the project giving audience (from the showcase) some understanding of the visualizations that R has to offer or just know which visualization is best for the type of data they have.
+The main idea of this project is to create poster encompassing all the major things learned in this course and creating a cheat sheet of sort with the end product of the project giving audience (from the showcase) some 
+understanding of the visualizations that R has to offer or just know which visualization is best for the type of data they have.
 
 ## **Expanded description:**
 
-The goal of this project is to demonstrate various visualizations that can effectively convey information and how insights can be derived from them. Additionally, it aims to inform the audience about which types of visualizations are most suitable for different forms of data. The motivation behind this project is to educate research students without a background in data visualization on how to select appropriate visualizations for their research, depending on the data they are using to answer their research question/s. The end product of this project is to generate some majorly used visualizations while also documenting the type of data they were drawn using. If more can be done, then we would also like to compare some similar visualizations, such as Histogram vs Bar graph, and their specific use cases to highlight their differences.
+The goal of this project is to demonstrate various visualizations that can effectively convey information and how insights can be derived from them. Additionally, it aims to inform the audience about which types of 
+visualizations are most suitable for different forms of data. The motivation behind this project is to educate research students without a background in data visualization on how to select appropriate visualizations for 
+their research, depending on the data they are using to answer their research question/s. The end product of this project is to generate some majorly used visualizations while also documenting the type of data they were 
+drawn using. If more can be done, then we would also like to compare some similar visualizations, such as Histogram vs Bar graph, and their specific use cases to highlight their differences.
 
 ## Questions:
 
