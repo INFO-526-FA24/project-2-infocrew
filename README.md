@@ -9,8 +9,18 @@ main
 |
 --- Proposal.docx -> Contains the project proposal.
 |
---- Data -> This is where we will store the data used for the Project.
+--- data -> This is where we will store the data used for the Project.
 |
---- Problem_Code.Rmd -> This file includes all the coding part of the project
+--- src -> This is where all the R code is store
+    ---- Problem_Code.Rmd -> This file includes all the coding part of the project
+|
+--- graphs -> This is where all the Visualisations will bw stored.
+|
+--- Poster.doc -> This is poster documnett.
+|
+--- presentation.ppt -> This is presentation
+|
+--- README.md
+
 
 Note: This structure might change as we move forward with project.
